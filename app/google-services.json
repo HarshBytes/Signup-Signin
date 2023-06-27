@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1002347442973",
+    "project_id": "excelsior-technologies-e1e57",
+    "storage_bucket": "excelsior-technologies-e1e57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002347442973:android:a632d0bc003265831ca7f4",
+        "android_client_info": {
+          "package_name": "com.example.excelsiortechnologies"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD42wsbsWojolIqDMzkE28JJuI2qUPGv6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002347442973:android:1b2eefad68666fdf1ca7f4",
+        "android_client_info": {
+          "package_name": "com.example.firebasetutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD42wsbsWojolIqDMzkE28JJuI2qUPGv6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
